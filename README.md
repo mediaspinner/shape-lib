@@ -21,7 +21,7 @@ npm run test
 
 ## Design
 
-This library implements a Vector shape library that could be used to create a drawing program or a masking tool.  The neat part about this library is that each copmponent is a Web Component implemented in plain JavaScript.
+This library implements a Vector shape library that could be used to create a drawing program or a masking tool.  The neat part about this library is that each component is a Web Component implemented in plain JavaScript.
 
 The shapes currently implemented are:
 
