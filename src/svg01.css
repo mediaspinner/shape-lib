@@ -1,0 +1,22 @@
+.site {
+    display: flex;
+    /* height: 100vh; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.theimage {
+    width: 50%;
+}
+
+.demoBox {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.bigBox {
+    height: 1600px;
+    width: 1600px;
+    border: 1px solid green;
+}
